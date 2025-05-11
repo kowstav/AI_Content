@@ -3,8 +3,6 @@
 ## Overview
 AI Content Wizard is a powerful web application that leverages artificial intelligence to generate various types of content, including blog posts, social media content, marketing copy, emails, tweets, and product descriptions. Built with React and Node.js, it provides an intuitive interface for content creation powered by advanced AI technology.
 
-![AI Content Wizard Banner](https://via.placeholder.com/800x200?text=AI+Content+Wizard)
-
 ## 🌟 Features
 
 - **Multiple Content Types**: Generate various forms of content including:
